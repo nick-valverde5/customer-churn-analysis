@@ -72,7 +72,10 @@ Customers who churned had significantly lower average tenure compared to retaine
 Business Recommendation
 - Develop onboarding and retention programs targeting new customers during their first year
 
+### 6. Payment Method Influences Churn
+Customers using electronic check payments demonstrated the highest churn rates, while credit card users showed the lowest churn rates.
 ---
-
+Business Recommendation
+- Encourage customers to enroll in automatic credit card payments to improve retention
 ## Author
 Nicholas Valverde
