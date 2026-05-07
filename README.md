@@ -60,7 +60,7 @@ Customers on long-term contracts demonstrated significantly lower churn rates.
 ---
 
 ## Dashboard
-![Customer Churn Dashboard](customer_churn_dashboard.png)
+![Customer Churn Dashboard](customer_churn_dashboard.PNG)
 
 ### 4. Higher Monthly Charges Increase Churn Risk
 Customers who churned had higher average monthly charges compared to retained customers, suggesting pricing may influence customer retention.
