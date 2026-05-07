@@ -92,16 +92,4 @@ The Tableau dashboard includes:
 
 ---
 
-## GitHub Repository
-# Customer Churn Analysis
 
-A data analytics project focused on identifying customer churn trends using SQL and Tableau. This project analyzes customer behavior, contract types, payment methods, and tenure patterns to uncover high-risk customer segments and provide business recommendations for improving retention.
-
-## Tools Used
-- MySQL
-- Tableau
-- Excel
-- GitHub
-
-## Repository
-View Project on GitHub
