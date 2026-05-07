@@ -64,6 +64,8 @@ Customers on long-term contracts demonstrated significantly lower churn rates.
 
 ### 4. Higher Monthly Charges Increase Churn Risk
 Customers who churned had higher average monthly charges compared to retained customers, suggesting pricing may influence customer retention.
+- Offer loyalty discounts or bundled services to customers with high monthly charges
+
 ---
 
 ## Author
