@@ -1,3 +1,11 @@
+## Tools Used
+
+- MySQL
+- Tableau Public
+- SQL
+- GitHub
+- Data Visualization
+
 ## Dashboard
 ![Customer Churn Dashboard](customer_churn_dashboard.PNG)
 
