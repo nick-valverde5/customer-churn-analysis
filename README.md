@@ -1,3 +1,15 @@
+## Dashboard
+![Customer Churn Dashboard](customer_churn_dashboard.PNG)
+
+## Key Insights
+
+- Month-to-month contracts had the highest churn rate (~45%)
+- Customers with higher monthly charges were more likely to churn
+- Customers who churned had significantly lower average tenure
+- Electronic check users showed the highest churn behavior
+- Long-term contracts greatly reduced customer churn
+
+
 # customer-churn-analysis
 SQL and Tableau project analyzing customer churn trends and retention insights.
 # Customer Churn Analysis
@@ -59,8 +71,6 @@ Customers on long-term contracts demonstrated significantly lower churn rates.
 
 ---
 
-## Dashboard
-![Customer Churn Dashboard](customer_churn_dashboard.PNG)
 
 ### 4. Higher Monthly Charges Increase Churn Risk
 Customers who churned had higher average monthly charges compared to retained customers, suggesting pricing may influence customer retention.
