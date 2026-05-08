@@ -83,13 +83,15 @@ The Tableau dashboard includes:
 - SQL Queries
 - Tableau Dashboard
 - Dataset
-- Dashboard Screenshots
-
----
-
-## Live Dashboard
-[Insert Tableau Public Link Here]
-
----
-
+- 
+## What I Actually Did
+- Imported customer churn data into MySQL
+- Reviewed columns like contract type, monthly charges, tenure, and churn status
+- Used SQL queries to calculate overall churn rate
+- Grouped customers by contract type to compare churn behavior
+- Calculated average monthly charges for churned vs retained customers
+- Used CASE statements to categorize customer risk levels
+- Exported findings into Tableau for visualization
+- Built charts showing churn trends by contract type and customer tenure
+- Summarized the business impact of customer churn patterns
 
