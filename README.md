@@ -95,3 +95,9 @@ The Tableau dashboard includes:
 - Built charts showing churn trends by contract type and customer tenure
 - Summarized the business impact of customer churn patterns
 
+## Challenges
+- Some columns imported with incorrect data types and needed adjustment
+- Learning GROUP BY and aggregate functions took practice
+- I initially struggled with calculating churn percentages correctly
+- Tableau charts aggregated values incorrectly until I adjusted the dimensions and measures
+- I had to simplify some dashboard visuals to improve readability
